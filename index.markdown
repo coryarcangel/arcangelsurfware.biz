@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Arcangel Surfware
+title: Arcangel Surfware - Cory Arcangel
 ---
 
 <div class="bg">
